@@ -1,8 +1,8 @@
-# kloun
+# Leitzan (Formerly Kloun)
 
 **One app for everything you watch, read and listen to.** Movies, shows, anime, live TV, manga, comics, books, light novels, radio, podcasts and music, all in one library on Android phones, tablets and TVs.
 
-kloun comes empty. It has no built-in sources, no accounts, no ads and no tracking. You add the sources and servers you want, and everything stays on your device.
+Leitzan comes empty. It has no built-in sources, no accounts, no ads and no tracking. You add the sources and servers you want, and everything stays on your device.
 
 ## ✨ Key features
 
@@ -78,16 +78,16 @@ Download the APK for your device from the [latest release](https://github.com/Jo
 
 | File | For |
 | --- | --- |
-| `Kloun-*-arm64-v8a.apk` | Almost every phone from the last several years |
-| `Kloun-*-armeabi-v7a.apk` | Older 32-bit phones and many TV boxes |
-| `Kloun-*-x86_64.apk` / `x86.apk` | Emulators and x86 devices |
-| `Kloun-*-universal.apk` | Any device, if you're not sure (larger) |
+| `Leitzan-*-arm64-v8a.apk` | Almost every phone from the last several years |
+| `Leitzan-*-armeabi-v7a.apk` | Older 32-bit phones and many TV boxes |
+| `Leitzan-*-x86_64.apk` / `x86.apk` | Emulators and x86 devices |
+| `Leitzan-*-universal.apk` | Any device, if you're not sure (larger) |
 
-Requires Android 8.0 or later. Once it's installed, kloun updates itself from **Settings → Update kloun**.
+Requires Android 8.0 or later. Once it's installed, Leitzan updates itself from **Settings → Update Leitzan**.
 
 ## ⚠️ Note
 
-kloun is a player and reader. It doesn't host, include or recommend any content. You're responsible for the sources you add and for following the laws where you live.
+Leitzan is a player and reader. It doesn't host, include or recommend any content. You're responsible for the sources you add and for following the laws where you live.
 
 ---
 
